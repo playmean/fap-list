@@ -1,0 +1,13 @@
+# fap-list
+Collection of Flipper Zero applications with .fap files
+
+| Title | Description | Links | FW Stable |
+| :- | :- | :- | - |
+| Unitemp | Universal temperature sensor reader | [git](https://github.com/quen0n/unitemp-flipperzero) | [![FAP Factory](https://fap.playmean.xyz/api/v1/quen0n/unitemp-flipperzero/badge)](https://fap.playmean.xyz/quen0n/unitemp-flipperzero/) |
+| Sentry Safe | Flipper zero exploiting vulnerability to open any Sentry Safe and Master Lock electronic safe without any pin code. | [git](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin) | [![FAP Factory](https://fap.playmean.xyz/api/v1/H4ckd4ddy/flipperzero-sentry-safe-plugin/badge)](https://fap.playmean.xyz/H4ckd4ddy/flipperzero-sentry-safe-plugin) |
+| MultiConverter | Multi-unit converter that can be easily expanded with new units and conversion methods. | [git](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/multi_converter) | [![FAP Factory](https://fap.playmean.xyz/api/v1/theisolinearchip/flipperzero_stuff/badge?root=applications%2Fmulti_converter)](https://fap.playmean.xyz/theisolinearchip/flipperzero_stuff?root=applications/multi_converter) |
+| GPS | Flipper Zero application for NMEA 0183 serial GPS modules. | [git](https://github.com/ezod/flipperzero-gps) | [![FAP Factory](https://fap.playmean.xyz/api/v1/ezod/flipperzero-gps/badge)](https://fap.playmean.xyz/ezod/flipperzero-gps) |
+| USB HID Autofire | Simple Flipper Zero application to send left-clicks as a USB HID device | [git](https://github.com/pbek/usb_hid_autofire) | [![FAP Factory](https://fap.playmean.xyz/api/v1/pbek/usb_hid_autofire/badge)](https://fap.playmean.xyz/pbek/usb_hid_autofire) |
+| Flipper Authenticator | Software-based TOTP authenticator for Flipper Zero device. | [git](https://github.com/akopachov/flipper-zero_authenticator/) |[![FAP Factory](https://fap.playmean.xyz/api/v1/akopachov/flipper-zero_authenticator/badge?root=totp)](https://fap.playmean.xyz/akopachov/flipper-zero_authenticator/?root=totp)  |
+| Flipp Pomodoro | Boost Your Productivity with the Pomodoro Timer for Flipper Zero! Don't let your flipper get bored, let him help you instead. | [git](https://github.com/Th3Un1q3/flipp_pomodoro) | [![FAP Factory](https://fap.playmean.xyz/api/v1/Th3Un1q3/flipp_pomodoro/badge?root=flipp_pomodoro)](https://fap.playmean.xyz/Th3Un1q3/flipp_pomodoro?root=flipp_pomodoro) |
+| Hex Viewer | Hex Viewer application for Flipper Zero | [git](https://github.com/QtRoS/flipper-zero-hex-viewer) | [![FAP Factory](https://fap.playmean.xyz/api/v1/QtRoS/flipper-zero-hex-viewer/badge)](https://fap.playmean.xyz/QtRoS/flipper-zero-hex-viewer) |
