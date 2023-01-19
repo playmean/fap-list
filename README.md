@@ -1,5 +1,5 @@
 # fap-list
-Collection of Flipper Zero applications with .fap files
+Collection of Flipper Zero applications with .fap files built automatically with [fap-factory](https://fap.playmean.xyz)
 
 | **Title** | **Description** | **Links** | **FW Official** |
 | :- | :- | :- | - |
