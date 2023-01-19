@@ -1,7 +1,7 @@
 # fap-list
 Collection of Flipper Zero applications with .fap files
 
-| Title | Description | Links | FW Official |
+| **Title** | **Description** | **Links** | **FW Official** |
 | :- | :- | :- | - |
 | Unitemp | Universal temperature sensor reader | [git](https://github.com/quen0n/unitemp-flipperzero) | [![FAP Factory](https://fap.playmean.xyz/api/v1/quen0n/unitemp-flipperzero/badge)](https://fap.playmean.xyz/quen0n/unitemp-flipperzero/) |
 | Sentry Safe | Flipper zero exploiting vulnerability to open any Sentry Safe and Master Lock electronic safe without any pin code. | [git](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin) | [![FAP Factory](https://fap.playmean.xyz/api/v1/H4ckd4ddy/flipperzero-sentry-safe-plugin/badge)](https://fap.playmean.xyz/H4ckd4ddy/flipperzero-sentry-safe-plugin) |
