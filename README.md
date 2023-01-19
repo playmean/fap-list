@@ -1,5 +1,8 @@
-# fap-list
-Collection of Flipper Zero applications with .fap files built automatically with [fap-factory](https://fap.playmean.xyz)
+![image](https://user-images.githubusercontent.com/29231088/213442343-c64a28d1-1058-4b11-9b11-28856bcc7a5a.png)
+
+Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmware) applications with .fap files built automatically with [fap-factory](https://fap.playmean.xyz)
+
+---
 
 | **Title** | **Description** | **Links** | **FW Official** |
 | :- | :- | :- | - |
