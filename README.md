@@ -49,6 +49,7 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 | Password Generator |  | [git](https://github.com/anakod/flipper_passgen) | [![FAP Factory](https://fap.playmean.xyz/api/v1/anakod/flipper_passgen/badge)](https://fap.playmean.xyz/anakod/flipper_passgen) |
 | Analog Clock |  | [git](https://github.com/scrolltex/flipper_analog_clock) | [![FAP Factory](https://fap.playmean.xyz/api/v1/scrolltex/flipper_analog_clock/badge)](https://fap.playmean.xyz/scrolltex/flipper_analog_clock) |
 | Brainfuck interpreter |  | [git](https://github.com/nymda/FlipperZeroBrainfuck) | [![FAP Factory](https://fap.playmean.xyz/api/v1/nymda/FlipperZeroBrainfuck/badge)](https://fap.playmean.xyz/nymda/FlipperZeroBrainfuck) |
+| COM Port Scanner Emulator | Emulates a barcode scanner for testing cash registers | [git](https://github.com/polarikus/flipper-zero_bc_scanner_emulator)| [![FAP Factory](https://fap.playmean.xyz/api/v1/polarikus/flipper-zero_bc_scanner_emulator/badge)](https://fap.playmean.xyz/polarikus/flipper-zero_bc_scanner_emulator) |
 
 ## GPIO
 
