@@ -21,6 +21,8 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 | Asteroids |  | [git](https://github.com/antirez/flipper-asteroids) | [![FAP Factory](https://fap.playmean.xyz/api/v1/antirez/flipper-asteroids/badge)](https://fap.playmean.xyz/antirez/flipper-asteroids) | [![FAP Factory](https://fap.playmean.xyz/api/v1/antirez/flipper-asteroids/badge?firmware=unleashed)](https://fap.playmean.xyz/antirez/flipper-asteroids?firmware=unleashed) |
 | Tamagotchi P1 |  | [git](https://github.com/GMMan/flipperzero-tamagotch-p1) | [![FAP Factory](https://fap.playmean.xyz/api/v1/GMMan/flipperzero-tamagotch-p1/badge)](https://fap.playmean.xyz/GMMan/flipperzero-tamagotch-p1) | [![FAP Factory](https://fap.playmean.xyz/api/v1/GMMan/flipperzero-tamagotch-p1/badge?firmware=unleashed)](https://fap.playmean.xyz/GMMan/flipperzero-tamagotch-p1?firmware=unleashed) |
 | Tamagotchi P1 | with saves | [git](https://github.com/DroomOne/flipperzero-tamagotch-p1) | [![FAP Factory](https://fap.playmean.xyz/api/v1/DroomOne/flipperzero-tamagotch-p1/badge?nowerr=1)](https://fap.playmean.xyz/DroomOne/flipperzero-tamagotch-p1?nowerr=1) | [![FAP Factory](https://fap.playmean.xyz/api/v1/DroomOne/flipperzero-tamagotch-p1/badge?firmware=unleashed&nowerr=1)](https://fap.playmean.xyz/DroomOne/flipperzero-tamagotch-p1?firmware=unleashed&nowerr=1) |
+| Slots |  | [git](https://github.com/Daniel-dev-s/flipperzero-slots) | [![FAP Factory](https://fap.playmean.xyz/api/v1/Daniel-dev-s/flipperzero-slots/badge?nowerr=1)](https://fap.playmean.xyz/Daniel-dev-s/flipperzero-slots?nowerr=1) |  |
+| Simon Says | Think you can beat Simon? | [git](https://github.com/SimplyMinimal/FlipperZero-SimonSays) | [![FAP Factory](https://fap.playmean.xyz/api/v1/SimplyMinimal/FlipperZero-SimonSays/badge)](https://fap.playmean.xyz/SimplyMinimal/FlipperZero-SimonSays) |  |
 
 ## Tools
 
@@ -40,6 +42,10 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 | Password Generator |  | [git](https://github.com/anakod/flipper_passgen) | [![FAP Factory](https://fap.playmean.xyz/api/v1/anakod/flipper_passgen/badge)](https://fap.playmean.xyz/anakod/flipper_passgen) |
 | Analog Clock |  | [git](https://github.com/scrolltex/flipper_analog_clock) | [![FAP Factory](https://fap.playmean.xyz/api/v1/scrolltex/flipper_analog_clock/badge)](https://fap.playmean.xyz/scrolltex/flipper_analog_clock) |
 | COM Port Scanner Emulator | Emulates a barcode scanner for testing cash registers | [git](https://github.com/polarikus/flipper-zero_bc_scanner_emulator)| [![FAP Factory](https://fap.playmean.xyz/api/v1/polarikus/flipper-zero_bc_scanner_emulator/badge)](https://fap.playmean.xyz/polarikus/flipper-zero_bc_scanner_emulator) |
+| NightStand | Fork of the standard clock app, for use as a bedside clock at night | [git](https://github.com/nymda/FlipperNightStand) | [![FAP Factory](https://fap.playmean.xyz/api/v1/nymda/FlipperNightStand/badge)](https://fap.playmean.xyz/nymda/FlipperNightStand) |  |
+| ProtoView | ProtoView is a digital signal detection, visualization, editing and reply tool | [git](https://github.com/antirez/protoview) | [![FAP Factory](https://fap.playmean.xyz/api/v1/antirez/protoview/badge)](https://fap.playmean.xyz/antirez/protoview) |  |
+| iOS Trigger | A Bluetooth trigger/intervalometer | [git](https://github.com/Nem0oo/flipper-zero_ios-bluetooth-trigger) | [![FAP Factory](https://fap.playmean.xyz/api/v1/Nem0oo/flipper-zero_ios-bluetooth-trigger/badge)](https://fap.playmean.xyz/Nem0oo/flipper-zero_ios-bluetooth-trigger) |  |
+| MagSpoof WIP | Enables wireless emulation of magstripe data, using the inbuilt RFID coil as an electromagnet. | [git](https://github.com/zacharyweiss/magspoof_flipper) | [![FAP Factory](https://fap.playmean.xyz/api/v1/zacharyweiss/magspoof_flipper/badge)](https://fap.playmean.xyz/zacharyweiss/magspoof_flipper) |  |
 
 ## GPIO
 
@@ -57,6 +63,7 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 | Zeitraffer | Simple timelapse app for Flipper Zero | [git](https://github.com/theageoflove/flipperzero-zeitraffer) | [![FAP Factory](https://fap.playmean.xyz/api/v1/theageoflove/flipperzero-zeitraffer/badge)](https://fap.playmean.xyz/theageoflove/flipperzero-zeitraffer) |
 | Geiger Counter |  | [git](https://github.com/nmrr/flipperzero-geigercounter) | [![FAP Factory](https://fap.playmean.xyz/api/v1/nmrr/flipperzero-geigercounter/badge?root=flipper_geiger)](https://fap.playmean.xyz/nmrr/flipperzero-geigercounter?root=flipper_geiger) |
 | RGB LED | A simple application to control RGB LED's (WS2812, etc) via GPIO | [git](https://github.com/flyandi/flipper_zero_rgb_led) | [![FAP Factory](https://fap.playmean.xyz/api/v1/flyandi/flipper_zero_rgb_led/badge)](https://fap.playmean.xyz/flyandi/flipper_zero_rgb_led) |
+| ESP8266 WiFi Deauther V2 |  | [git](https://github.com/Timmotools/flipperzero_esp8266_deautherv2) | [![FAP Factory](https://fap.playmean.xyz/api/v1/Timmotools/flipperzero_esp8266_deautherv2/badge?root=wifi_deauther)](https://fap.playmean.xyz/Timmotools/flipperzero_esp8266_deautherv2?root=wifi_deauther) |  |
 
 ## Music
 
