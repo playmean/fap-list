@@ -46,6 +46,7 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 | ProtoView | ProtoView is a digital signal detection, visualization, editing and reply tool | [git](https://github.com/antirez/protoview) | [![FAP Factory](https://fap.playmean.xyz/api/v1/antirez/protoview/badge)](https://fap.playmean.xyz/antirez/protoview) |  |
 | iOS Trigger | A Bluetooth trigger/intervalometer | [git](https://github.com/Nem0oo/flipper-zero_ios-bluetooth-trigger) | [![FAP Factory](https://fap.playmean.xyz/api/v1/Nem0oo/flipper-zero_ios-bluetooth-trigger/badge)](https://fap.playmean.xyz/Nem0oo/flipper-zero_ios-bluetooth-trigger) |  |
 | MagSpoof WIP | Enables wireless emulation of magstripe data, using the inbuilt RFID coil as an electromagnet. | [git](https://github.com/zacharyweiss/magspoof_flipper) | [![FAP Factory](https://fap.playmean.xyz/api/v1/zacharyweiss/magspoof_flipper/badge)](https://fap.playmean.xyz/zacharyweiss/magspoof_flipper) |  |
+| MFKey32 |  | [git](https://github.com/noproto/FlipperMfkey) | [![FAP Factory](https://fap.playmean.xyz/api/v1/noproto/FlipperMfkey/badge?root=fap)](https://fap.playmean.xyz/noproto/FlipperMfkey?root=fap) |  |
 
 ## GPIO
 
@@ -64,6 +65,7 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 | Geiger Counter |  | [git](https://github.com/nmrr/flipperzero-geigercounter) | [![FAP Factory](https://fap.playmean.xyz/api/v1/nmrr/flipperzero-geigercounter/badge?root=flipper_geiger)](https://fap.playmean.xyz/nmrr/flipperzero-geigercounter?root=flipper_geiger) |
 | RGB LED | A simple application to control RGB LED's (WS2812, etc) via GPIO | [git](https://github.com/flyandi/flipper_zero_rgb_led) | [![FAP Factory](https://fap.playmean.xyz/api/v1/flyandi/flipper_zero_rgb_led/badge)](https://fap.playmean.xyz/flyandi/flipper_zero_rgb_led) |
 | ESP8266 WiFi Deauther V2 |  | [git](https://github.com/Timmotools/flipperzero_esp8266_deautherv2) | [![FAP Factory](https://fap.playmean.xyz/api/v1/Timmotools/flipperzero_esp8266_deautherv2/badge?root=wifi_deauther)](https://fap.playmean.xyz/Timmotools/flipperzero_esp8266_deautherv2?root=wifi_deauther) |  |
+| UART Terminal |  | [git](https://github.com/cool4uma/UART_Terminal) | [![FAP Factory](https://fap.playmean.xyz/api/v1/cool4uma/UART_Terminal/badge)](https://fap.playmean.xyz/cool4uma/UART_Terminal) |  |
 
 ## Music
 
