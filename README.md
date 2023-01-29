@@ -83,6 +83,10 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 
 For server rent, upgrades and development. Thank you!
 
+[QIWI (RU)](https://qiwi.com/n/PLAYMEAN)
+
+[YooMoney (RU)](https://yoomoney.ru/to/410015621742175/0)
+
 BTC `bc1qd3v0gces8ndz0ju8j708a3waqymz7625kjm4r6`
 
 ETH `0xC7EfFd2B2192D7BDa43ab1697B6DfCF51a939684`
