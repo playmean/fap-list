@@ -4,7 +4,7 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 
 ---
 
-## Games
+## 🕹️ Games
 
 | **Title** | **Description** | **Links** | **FW Official** | **FW Unleashed** | **FW RogueMaster** |
 | :- | :- | :- | - | - | - |
@@ -24,7 +24,7 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 | Slots |  | [git](https://github.com/Daniel-dev-s/flipperzero-slots) | [![FAP Factory](https://fap.playmean.xyz/api/v1/Daniel-dev-s/flipperzero-slots/badge?nowerr=1)](https://fap.playmean.xyz/Daniel-dev-s/flipperzero-slots?nowerr=1) | [![FAP Factory](https://fap.playmean.xyz/api/v1/Daniel-dev-s/flipperzero-slots/badge?firmware=unleashed&nowerr=1)](https://fap.playmean.xyz/Daniel-dev-s/flipperzero-slots?firmware=unleashed&nowerr=1) | [![FAP Factory](https://fap.playmean.xyz/api/v1/Daniel-dev-s/flipperzero-slots/badge?firmware=roguemaster&nowerr=1)](https://fap.playmean.xyz/Daniel-dev-s/flipperzero-slots?firmware=roguemaster&nowerr=1) |
 | Simon Says | Think you can beat Simon? | [git](https://github.com/SimplyMinimal/FlipperZero-SimonSays) | [![FAP Factory](https://fap.playmean.xyz/api/v1/SimplyMinimal/FlipperZero-SimonSays/badge)](https://fap.playmean.xyz/SimplyMinimal/FlipperZero-SimonSays) | [![FAP Factory](https://fap.playmean.xyz/api/v1/SimplyMinimal/FlipperZero-SimonSays/badge?firmware=unleashed)](https://fap.playmean.xyz/SimplyMinimal/FlipperZero-SimonSays?firmware=unleashed) | [![FAP Factory](https://fap.playmean.xyz/api/v1/SimplyMinimal/FlipperZero-SimonSays/badge?firmware=roguemaster)](https://fap.playmean.xyz/SimplyMinimal/FlipperZero-SimonSays?firmware=roguemaster) |
 
-## Tools
+## 🎛️ Tools
 
 | **Title** | **Description** | **Links** | **FW Official** | **FW Unleashed** |
 | :- | :- | :- | - | - |
@@ -48,7 +48,7 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 | MagSpoof WIP | Enables wireless emulation of magstripe data, using the inbuilt RFID coil as an electromagnet. | [git](https://github.com/zacharyweiss/magspoof_flipper) | [![FAP Factory](https://fap.playmean.xyz/api/v1/zacharyweiss/magspoof_flipper/badge)](https://fap.playmean.xyz/zacharyweiss/magspoof_flipper) | [![FAP Factory](https://fap.playmean.xyz/api/v1/zacharyweiss/magspoof_flipper/badge?firmware=unleashed)](https://fap.playmean.xyz/zacharyweiss/magspoof_flipper?firmware=unleashed) |
 | MFKey32 |  | [git](https://github.com/noproto/FlipperMfkey) | [![FAP Factory](https://fap.playmean.xyz/api/v1/noproto/FlipperMfkey/badge?root=fap)](https://fap.playmean.xyz/noproto/FlipperMfkey?root=fap) | [![FAP Factory](https://fap.playmean.xyz/api/v1/noproto/FlipperMfkey/badge?root=fap&firmware=unleashed)](https://fap.playmean.xyz/noproto/FlipperMfkey?root=fap&firmware=unleashed) |
 
-## GPIO
+## 🔌 GPIO
 
 | **Title** | **Description** | **Links** | **FW Official** | **FW Unleashed** |
 | :- | :- | :- | - | - |
@@ -67,7 +67,7 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 | ESP8266 WiFi Deauther V2 |  | [git](https://github.com/Timmotools/flipperzero_esp8266_deautherv2) | [![FAP Factory](https://fap.playmean.xyz/api/v1/Timmotools/flipperzero_esp8266_deautherv2/badge?root=wifi_deauther)](https://fap.playmean.xyz/Timmotools/flipperzero_esp8266_deautherv2?root=wifi_deauther) | [![FAP Factory](https://fap.playmean.xyz/api/v1/Timmotools/flipperzero_esp8266_deautherv2/badge?root=wifi_deauther&firmware=unleashed)](https://fap.playmean.xyz/Timmotools/flipperzero_esp8266_deautherv2?root=wifi_deauther&firmware=unleashed) |
 | UART Terminal |  | [git](https://github.com/cool4uma/UART_Terminal) | [![FAP Factory](https://fap.playmean.xyz/api/v1/cool4uma/UART_Terminal/badge)](https://fap.playmean.xyz/cool4uma/UART_Terminal) | [![FAP Factory](https://fap.playmean.xyz/api/v1/cool4uma/UART_Terminal/badge?firmware=unleashed)](https://fap.playmean.xyz/cool4uma/UART_Terminal?firmware=unleashed) |
 
-## Music
+## 🥁 Music
 
 | **Title** | **Description** | **Links** | **FW Official** |
 | :- | :- | :- | - |
@@ -78,3 +78,13 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 | USB MIDI driver |  | [git](https://github.com/DrZlo13/flipper-zero-usb-midi) | [![FAP Factory](https://fap.playmean.xyz/api/v1/DrZlo13/flipper-zero-usb-midi/badge)](https://fap.playmean.xyz/DrZlo13/flipper-zero-usb-midi) |
 | Music tracker |  | [git](https://github.com/DrZlo13/flipper-zero-music-tracker) | [![FAP Factory](https://fap.playmean.xyz/api/v1/DrZlo13/flipper-zero-music-tracker/badge)](https://fap.playmean.xyz/DrZlo13/flipper-zero-music-tracker) |
 | Ocarina of Time | A basic Ocarina (of Time) for the Flipper Zero | [git](https://github.com/invalidna-me/flipperzero-ocarina) | [![FAP Factory](https://fap.playmean.xyz/api/v1/invalidna-me/flipperzero-ocarina/badge?nowerr=1)](https://fap.playmean.xyz/invalidna-me/flipperzero-ocarina?nowerr=1) |
+
+# Support 🌟
+
+For server rent, upgrades and development. Thank you!
+
+BTC `bc1qd3v0gces8ndz0ju8j708a3waqymz7625kjm4r6`
+
+ETH `0xC7EfFd2B2192D7BDa43ab1697B6DfCF51a939684`
+
+XRP `rKy3Kk9M4RTNWTydrrYp8NvmHf9WhbnW4r`
