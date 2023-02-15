@@ -84,7 +84,7 @@ Collection of [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmw
 | USB MIDI driver |  | [git](https://github.com/DrZlo13/flipper-zero-usb-midi) | [![FAP Factory](https://flipc.org/api/v1/DrZlo13/flipper-zero-usb-midi/badge)](https://flipc.org/DrZlo13/flipper-zero-usb-midi) |
 | Music tracker |  | [git](https://github.com/DrZlo13/flipper-zero-music-tracker) | [![FAP Factory](https://flipc.org/api/v1/DrZlo13/flipper-zero-music-tracker/badge)](https://flipc.org/DrZlo13/flipper-zero-music-tracker) |
 | Ocarina of Time | A basic Ocarina (of Time) for the Flipper Zero | [git](https://github.com/invalidna-me/flipperzero-ocarina) | [![FAP Factory](https://flipc.org/api/v1/invalidna-me/flipperzero-ocarina/badge?nowerr=1)](https://flipc.org/invalidna-me/flipperzero-ocarina?nowerr=1) |
-
+| Flizzer Tracker | An advanced 4-channel chiptune tracker for Flipper Zero | [git](https://github.com/ltva1/flizzer_tracker) | [![FAP Factory](https://flipc.org/api/v1/ltva1/flizzer_tracker/badge?nowerr=1)](https://flipc.org/ltva1/flizzer_tracker?nowerr=1) |
 # Support 🌟
 
 For server rent, upgrades and development. Thank you!
